@@ -20,7 +20,7 @@ df = pd.DataFrame(data_array)
 df
 ```
 
-![image.png](image.png)
+![image.png](./photo/image.png)
 
 在將df寫入新的json檔案
 
@@ -50,7 +50,7 @@ df = pd.DataFrame(data_list)
 df
 ```
 
-![image.png](image%201.png)
+![image.png](./photo/image%201.png)
 
 寫入新的xml檔案
 
@@ -70,7 +70,7 @@ df=pd.read_csv('新竹市重要遊憩據點遊客人次統計.csv')
 df
 ```
 
-![image.png](image%202.png)
+![image.png](./photo/image%202.png)
 
 寫入新的csv檔案
 
@@ -90,7 +90,7 @@ df=pd.read_excel('新竹市重要遊憩據點遊客人次統計.xlsx')
 df
 ```
 
-![image.png](image%203.png)
+![image.png](./photo/image%203.png)
 
 寫入新的xlsx檔案
 
@@ -101,4 +101,4 @@ df.to_excel('New_新竹市重要遊憩據點遊客人次統計.xlsx', index=Fals
 
 結果
 
-![image.png](fc82d0af-680c-4e31-8599-f522b2e7e818.png)
+![image.png](./photo/fc82d0af-680c-4e31-8599-f522b2e7e818.png)
